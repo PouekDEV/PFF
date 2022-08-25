@@ -1,0 +1,17 @@
+Vanilla Tweaks Resource Pack
+Version: 1.16
+Packs:
+	DarkUI
+	NoPumpkinOverlay
+	QuieterEndermen
+	QuieterDispensersDroppers
+	QuieterPistons
+	HDShieldBanners
+	AnimatedCampfireItem
+	CleanRedstoneDust
+	RedstonePowerLevels
+	StickyPistonSides
+	BetterObservers
+	DirectionalHoppers
+	NoteblockBanners
+	BrewingGuideDark
